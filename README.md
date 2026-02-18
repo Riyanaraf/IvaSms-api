@@ -1,6 +1,6 @@
 <!-- 🌟 ULTRA PRO MAX LIVE README by ArslanMD Official -->
 <p align="center">
-  <img src="https://i.ibb.co/Yf5RnVJh/IVAS-ARSLANMD-BANNER.gif" alt="IVAS SMS API LIVE" width="100%"/>
+  <img src="https://i.ibb.co/Yf5RnVJh/IVAS-ARSLANMD-BANNER.gif" alt="Nexora Elite" width="100%"/>
 </p>
 
 <h1 align="center">🔥 IVAS SMS PANEL API 🚀 <img src="https://img.shields.io/badge/LIVE-🔥-red?style=for-the-badge" /></h1>
